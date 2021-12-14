@@ -6,7 +6,7 @@
 ### Hi there 👋, i'm Ilham
 
 
-Currently i'm open to any oppertunity especially in IT as a Fullstack Developer.
+Currently i'm open to any oppertunity especially in IT as a Fullstack Web Developer.
 
 <br>
 
