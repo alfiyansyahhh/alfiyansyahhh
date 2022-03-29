@@ -20,7 +20,7 @@ Currently i'm open to any oppertunity especially in IT as a Fullstack Web Develo
 </a>
 
 
-<a href="https://www.youtube.com/user/alfiyansyahhh">
+<a href="https://www.youtube.com/channel/UCDNAYy6OWHS7OYfEAuKBfYA">
   <img style="margin-right:10px" align="left" alt="lintang youtube" width="29px" src="https://www.pinclipart.com/picdir/big/55-557137_a-quiet-drifter-takes-a-janitorial-job-at.png" />
 </a>
 
