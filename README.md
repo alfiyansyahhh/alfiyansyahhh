@@ -33,7 +33,7 @@ Currently i'm open to any oppertunity especially in IT as a Fullstack Web Develo
 
 |||
 |---|---|
-|![alfiyansyahhh github stat](https://github-readme-stats.vercel.app/api?username=alfiyansyahhh&show_icons=true&hide_border=true&theme=vue)|![alfiyansyahhh top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=alfiyansyahhh&layout=compact&hide_border=true&theme=vue)| 
+|![alfiyansyahhh github stat](https://github-readme-stats.vercel.app/api?username=alfiyansyahhh&show_icons=true&hide_border=true&theme=react)|![alfiyansyahhh top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=alfiyansyahhh&layout=compact&hide_border=true&theme=react)| 
 
 
 <br>
