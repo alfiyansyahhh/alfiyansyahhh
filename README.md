@@ -34,9 +34,8 @@ Currently i'm open to any oppertunity especially in IT as a Fullstack Web Develo
 
 <img src='https://github-readme-stats.vercel.app/api?username=alfiyansyahhh&show_icons=true&hide_border=true&theme=react' />
 <br><br>
-
-| <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=alfiyansyahhh&layout=compact&hide_border=true&theme=react' />
-<img src="http://github-readme-streak-stats.herokuapp.com?user=alfiyansyahhh&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="stats" />|
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=alfiyansyahhh&layout=compact&hide_border=true&theme=react' />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=alfiyansyahhh&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="stats" />
 <br><br>
  <img src="https://activity-graph.herokuapp.com/graph?username=alfiyansyahhh&theme=react-dark&hide_border=true" alt="contribution graph" />
   
