@@ -24,21 +24,28 @@ Currently i'm open to any oppertunity especially in IT as a Fullstack Web Develo
   <img style="margin-right:10px" align="left" alt="lintang youtube" width="29px" src="https://www.pinclipart.com/picdir/big/55-557137_a-quiet-drifter-takes-a-janitorial-job-at.png" />
 </a>
 
+<br><br>
+
+<img src="https://activity-graph.herokuapp.com/graph?username=alfiyansyahhh&theme=react-dark&hide_border=true" alt="contribution graph" />
 
 
+<div align="center" style={display=flex}>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=alfiyansyahhh&layout=compact&hide_border=true&theme=react' /> 
+  <img src='https://github-readme-stats.vercel.app/api?username=alfiyansyahhh&show_icons=true&hide_border=true&theme=react' />
+</div>
 
 <br>
-<br>
+<div align="center"> 
 
+   <img src="http://github-readme-streak-stats.herokuapp.com?user=alfiyansyahhh&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="stats" /> 
+  </div>
 
-
-<img src='https://github-readme-stats.vercel.app/api?username=alfiyansyahhh&show_icons=true&hide_border=true&theme=react' />
 <br><br>
-| | |
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=alfiyansyahhh&layout=compact&hide_border=true&theme=react' />
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=alfiyansyahhh&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="stats" />
+
+
+
 <br><br>
- <img src="https://activity-graph.herokuapp.com/graph?username=alfiyansyahhh&theme=react-dark&hide_border=true" alt="contribution graph" />
+
   
 
 
